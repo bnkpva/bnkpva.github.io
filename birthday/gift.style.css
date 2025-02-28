@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: rgb(255, 53, 127)
+}
+img {
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 562px;
+}
+html {
+    background-color: rgb(181, 255, 181);
+}

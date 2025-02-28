@@ -1,0 +1,54 @@
+html {
+    background-color: rgba(251, 197, 104, 0.665);
+}
+#greetings {
+    text-align: center;
+    
+    
+    
+}
+#ing {
+    text-align: center;
+   border-style: dashed;
+    width: 250px;
+    }
+    #fl {
+        color: white;
+
+    }
+    #eg {
+        color: rgb(255, 136, 0);
+    }
+    #ol {
+        color: rgb(101, 149, 3)
+    }
+#dough {
+    text-align: center;
+    border-style: dashed;
+    position:relative;
+    top: 30px;
+   
+}
+ol {
+    color:rgb(174, 71, 48)
+}
+#prc {
+    text-align: center;
+    border-style:dashed;
+    position: relative;
+    top: 50px;
+   
+
+}
+ul {
+    color:rgb(153, 81, 45)
+}
+h1 {
+    color: rgb(92, 47, 19);
+}
+h2 {
+    color: rgb(92, 47, 19);
+}
+h3 {
+    color: rgb(92, 47, 19);
+}

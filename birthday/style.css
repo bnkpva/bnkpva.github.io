@@ -1,0 +1,34 @@
+html {
+    background-color: white;
+    
+}
+h1 {
+    text-align: center;
+    color: rgb(52, 52, 52);
+}
+#menu {
+   display: flex;
+   text-align: center; 
+   background-color: pink;
+
+}
+h2 {
+    color:rgb(52, 52, 52);
+}
+#nicewords {
+   flex: 3;
+   border: 30px solid white;
+}
+#gft {
+    flex: 6;
+    border: 30px solid white;
+}
+#rec {
+    flex: 3;
+    border: 30px solid white;
+}
+#brth {
+  position:absolute;
+  left: 344.5px;
+  border: 10px solid rgb(215, 215, 215);
+}   
